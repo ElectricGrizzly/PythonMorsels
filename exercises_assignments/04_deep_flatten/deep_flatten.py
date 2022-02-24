@@ -1,6 +1,8 @@
 '''
 Flattens any provided list, tuple, generator, set, or iterable data structure.
 
+Written for Python Morsels Exercise/Assignment #4 "deep_flatten"
+
 Functions:
 
     deep_flatten(iterable: Iterable) -> Generator

@@ -1,6 +1,8 @@
 '''
 Provides a 3D point object with x, y, and z attributes.
 
+Written for Python Morsels Exercise/Assignment #3 "point"
+
 Classes:
 
     Point

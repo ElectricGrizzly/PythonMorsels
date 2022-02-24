@@ -1,5 +1,7 @@
 '''
-Provide a circle object with radius, diameter, and area ttributes.
+Provides a circle object with radius, diameter, and area ttributes.
+
+Written for Python Morsels Exercise/Assignment #2 "circle"
 
 Classes:
 
